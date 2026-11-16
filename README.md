@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## AI News
+
+- [Qwen4-Max API launches: Alibaba Qwen's flagship goes GA at $1.50/$4.50 per million tokens](https://iacompa.com/news/alibaba-qwen-qwen4-max) — EN · [ES](https://iacompa.com/es/noticias/alibaba-qwen-qwen4-max)
