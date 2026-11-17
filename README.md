@@ -16,6 +16,16 @@ Here are some ideas to get you started:
 -->
 ## AI News
 
+- [EmbeddingGemma 2: Google DeepMind's multimodal embedding model](https://iacompa.com/news/google-embeddinggemma-2-multimodal-embedding-model)
+- [Kling Image 4.0: native 8K image generation from Kling AI](https://iacompa.com/news/kling-ai-image-4-0-native-8k-generation)
+- [Arize Phoenix CVE-2026-53998: PHOENIX_SECRET leak vulnerability](https://iacompa.com/news/arize-phoenix-cve-2026-53998-secret-leak)
+- [Vercel eve 1.0: open-source agent framework](https://iacompa.com/news/vercel-eve-1-0-open-source-agent-framework)
+- [Devin Bots: Cognition's persistent agents](https://iacompa.com/news/cognition-devin-bots-persistent-agents)
+- [Microsoft MAI Code 2 and Code 2 Flash in GitHub Copilot](https://iacompa.com/news/microsoft-mai-code-2-code-2-flash-github-copilot)
+- [Microsoft MAI Cyber 2 Flash security model](https://iacompa.com/news/microsoft-mai-cyber-2-flash-security-model)
+- [Microsoft MAI Realtime 1 speech-to-speech voice model](https://iacompa.com/news/microsoft-mai-realtime-1-speech-to-speech-voice)
+- [Google Tasks in Gemini goes free: calls, bookings and payments](https://iacompa.com/news/google-tasks-in-gemini-free-calls-bookings-payments)
+- [Microsoft Copilot Autopilot, Workspaces and Home/Office now generally available](https://iacompa.com/news/microsoft-copilot-autopilot-workspaces-home-office-generally-available)
 - [GPT-6.2 Astra: OpenAI's new frontier model, #2 on the Artificial Analysis Intelligence Index](https://iacompa.com/news/openai-gpt-6-2-astra)
 - [GPT-6.2 Sol: OpenAI's everyday-work frontier model at $2/$10 per million tokens](https://iacompa.com/news/openai-gpt-6-2-sol)
 - [Mirelo Sound Agent: AI sound design agent edits a video's sound from plain-language prompts](https://iacompa.com/news/mirelo-ai-sound-agent-video-sound-design)
