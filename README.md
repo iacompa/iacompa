@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 -->
 ## AI News
 
+- [Liquid AI d1.2 / d1.2-ultra decision models](https://iacompa.com/news/liquid-ai-d1.2-ultra-decision-models)
+- [NVIDIA Rubin HPC GPU for science agents](https://iacompa.com/news/nvidia-rubin-hpc-gpu-science-agents)
+- [NVIDIA Vera Rubin MLPerf Training v6.1](https://iacompa.com/news/nvidia-vera-rubin-mlperf-training-endpoints)
+- [OpenAI ChatGPT for Healthcare computer-use agents](https://iacompa.com/news/openai-chatgpt-healthcare-computer-use-agents)
+- [Tencent Hy4 Flash 224B MoE model](https://iacompa.com/news/tencent-hy4-flash-cost-effective-model)
+- [Google GTIG AI Threat Tracker](https://iacompa.com/news/google-gtig-ai-threat-tracker-autonomous-exploit-agents)
 - [Qwen4-Max API launches: Alibaba Qwen's flagship goes GA at $1.50/$4.50 per million tokens](https://iacompa.com/news/alibaba-qwen-qwen4-max) — EN · [ES](https://iacompa.com/es/noticias/alibaba-qwen-qwen4-max)
