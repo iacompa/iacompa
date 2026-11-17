@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ## AI News
 
+- [GPT-6.2 Astra: OpenAI's new frontier model, #2 on the Artificial Analysis Intelligence Index](https://iacompa.com/news/openai-gpt-6-2-astra)
+- [GPT-6.2 Sol: OpenAI's everyday-work frontier model at $2/$10 per million tokens](https://iacompa.com/news/openai-gpt-6-2-sol)
 - [Mirelo Sound Agent: AI sound design agent edits a video's sound from plain-language prompts](https://iacompa.com/news/mirelo-ai-sound-agent-video-sound-design)
 - [OpenAI Daybreak: AI cyber defense for NATO and allied partners](https://iacompa.com/news/openai-daybreak-nato-cyber-defense)
 - [Microsoft Azure agentic operations: SRE Agent announced at Ignite](https://iacompa.com/news/microsoft-azure-agentic-operations-sre-agent-ignite)
