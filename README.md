@@ -53,6 +53,12 @@ IA Compa (IA COMPA LLC) is an AI automation agency, founded 2023. We design, bui
 
 ## AI News
 
+- [Suno Visuals: AI music videos and images from Suno](https://iacompa.com/news/suno-visuals-ai-music-videos-images)
+- [Perplexity Computer: multiagent system with effort levels](https://iacompa.com/news/perplexity-computer-multiagent-effort-level)
+- [NVIDIA supply-chain partners expand AI infrastructure](https://iacompa.com/news/nvidia-supply-chain-partners-ai-infrastructure)
+- [ChatGPT for Sales: CRM partner plugins from OpenAI](https://iacompa.com/news/openai-chatgpt-for-sales-crm-partner-plugins)
+- [Perplexity Orchestrator API: model routing for agents](https://iacompa.com/news/perplexity-orchestrator-api-model-routing)
+- [NVIDIA SkillSpector: security scanner for agent skills](https://iacompa.com/news/nvidia-skillspector-agent-skill-scanner)
 - [EmbeddingGemma 2: Google DeepMind's multimodal embedding model](https://iacompa.com/news/google-embeddinggemma-2-multimodal-embedding-model)
 - [Kling Image 4.0: native 8K image generation from Kling AI](https://iacompa.com/news/kling-ai-image-4-0-native-8k-generation)
 - [Arize Phoenix CVE-2026-53998: PHOENIX_SECRET leak vulnerability](https://iacompa.com/news/arize-phoenix-cve-2026-53998-secret-leak)
