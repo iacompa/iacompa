@@ -24,10 +24,13 @@ IA Compa (IA COMPA LLC) is an AI automation agency, founded 2023. We design, bui
 - [AI Chatbots](https://iacompa.com/services/ai-chatbots)
 - [AI Voice Agents](https://iacompa.com/services/ai-voice-agents)
 - [AI Email](https://iacompa.com/services/ai-email)
+- [Custom Solutions](https://iacompa.com/services/custom-solutions)
 - [Database Reactivation](https://iacompa.com/services/database-reactivation)
 - [Missed-Call Text Back](https://iacompa.com/services/missed-call-text-back)
 - [Review Management](https://iacompa.com/services/review-management)
+- [Appointment Automation](https://iacompa.com/services/appointment-automation)
 - [Social DM Automation](https://iacompa.com/services/social-dm-automation)
+- [AI Websites & Funnels](https://iacompa.com/services/websites-funnels)
 
 ## Apps
 
