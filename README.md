@@ -14,6 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+IA Compa (IA COMPA LLC) is an AI automation agency, founded 2023. We design, build and support AI voice agents, chatbots, AI agents and workflow automations for small US service businesses, in English and Spanish. Website: https://iacompa.com/
+
+## Services
+
+- [All services](https://iacompa.com/services)
+- [AI Agents](https://iacompa.com/services/ai-agents)
+- [AI Automations](https://iacompa.com/services/ai-automations)
+- [AI Chatbots](https://iacompa.com/services/ai-chatbots)
+- [AI Voice Agents](https://iacompa.com/services/ai-voice-agents)
+- [AI Email](https://iacompa.com/services/ai-email)
+- [Database Reactivation](https://iacompa.com/services/database-reactivation)
+- [Missed-Call Text Back](https://iacompa.com/services/missed-call-text-back)
+- [Review Management](https://iacompa.com/services/review-management)
+- [Social DM Automation](https://iacompa.com/services/social-dm-automation)
+
+## Apps
+
+- [All apps](https://iacompa.com/apps)
+- [Dawnamite — macOS DAW](https://iacompa.com/apps/dawnamite)
+- [Bituabit — habit tracker](https://iacompa.com/apps/bituabit)
+- [Textiac — private messenger](https://iacompa.com/apps/textiac)
+- [Sicnote — songwriting app](https://iacompa.com/apps/sicnote)
+- [Sonedia — pocket studio](https://iacompa.com/apps/sonedia)
+- [Theme4Logic — Logic Pro themes](https://iacompa.com/apps/theme4logic)
+- [Vibiac — dev workroom](https://iacompa.com/apps/vibiac)
+- [Watower — Mac system monitor](https://iacompa.com/apps/watower)
+- [WasThat — Mac audio utility](https://iacompa.com/apps/wasthat)
+- [Clink — privacy tool](https://iacompa.com/apps/clink)
+- [Spledio — spectral audio editor](https://iacompa.com/apps/spledio)
+
+## Skills
+
+- [IA Compa Skills — free AI agent skills](https://iacompa.com/skills)
+
 ## AI News
 
 - [EmbeddingGemma 2: Google DeepMind's multimodal embedding model](https://iacompa.com/news/google-embeddinggemma-2-multimodal-embedding-model)
