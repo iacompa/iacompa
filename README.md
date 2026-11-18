@@ -90,3 +90,9 @@ IA Compa (IA COMPA LLC) is an AI automation agency, founded 2023. We design, bui
 - [Google GTIG AI Threat Tracker](https://iacompa.com/news/google-gtig-ai-threat-tracker-autonomous-exploit-agents)
 - [Qwen4-Max API launches: Alibaba Qwen's flagship goes GA at $1.50/$4.50 per million tokens](https://iacompa.com/news/alibaba-qwen-qwen4-max) — EN · [ES](https://iacompa.com/es/noticias/alibaba-qwen-qwen4-max)
 - [Mirelo SFX 2.0: video-to-sound model adds AI sound effects, foley and ambience while keeping dialogue](https://iacompa.com/news/mirelo-ai-sfx-2-0-video-to-sound)
+
+## Work with IA Compa
+
+- [Contact IA Compa](https://iacompa.com/contact) — EN · [ES](https://iacompa.com/es/contacto)
+- [Hire AI developers](https://iacompa.com/hire-ai-developers) — EN · [ES](https://iacompa.com/es/contratar-desarrolladores-de-ia)
+- [Join the AI Talent Network](https://iacompa.com/join-ai-talent-network) — EN · [ES](https://iacompa.com/es/unete-a-la-red-de-talento-ia)
