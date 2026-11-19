@@ -53,6 +53,14 @@ IA Compa (IA COMPA LLC) is an AI automation agency, founded 2023. We design, bui
 
 ## AI News
 
+- [Google Project Suncatcher: AI data centers in space launch on Blue Origin New Glenn](https://iacompa.com/news/google-project-suncatcher-blue-origin-new-glenn-launch)
+- [HighLevel Ask AI: build and publish AI Studio projects](https://iacompa.com/news/highlevel-ask-ai-build-publish-ai-studio-projects)
+- [Gemini API Tool Retrieval: tool search for agent tools](https://iacompa.com/news/google-gemini-api-tool-retrieval-agent-tools)
+- [Gemini computer use in the Gemini app for Mac](https://iacompa.com/news/google-gemini-computer-use-mac-app-agents)
+- [Google Project Suncatcher: centros de datos de IA en el espacio en el New Glenn de Blue Origin (ES)](https://iacompa.com/es/noticias/google-project-suncatcher-blue-origin-new-glenn-launch)
+- [HighLevel Ask AI: crea y publica proyectos de AI Studio (ES)](https://iacompa.com/es/noticias/highlevel-ask-ai-build-publish-ai-studio-projects)
+- [Gemini API Tool Retrieval: busqueda de herramientas para agentes (ES)](https://iacompa.com/es/noticias/google-gemini-api-tool-retrieval-agent-tools)
+- [Gemini computer use en la app de Gemini para Mac (ES)](https://iacompa.com/es/noticias/google-gemini-computer-use-mac-app-agents)
 - [Gemini 4 Neon: Google DeepMind's new model for coding, knowledge work and science](https://iacompa.com/news/google-gemini-4-neon)
 - [Stitch Loop: Google Labs' always-on AI product agent](https://iacompa.com/news/google-stitch-loop-product-agent)
 - [AWS Lambda GPU instances: serverless GPU inference from Amazon](https://iacompa.com/news/amazon-aws-lambda-gpu-instances)
