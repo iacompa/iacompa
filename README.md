@@ -1,1 +1,108 @@
-IyMgSGkgdGhlcmUg8J+RiwoKPCEtLQoqKmlhY29tcGEvaWFjb21wYSoqIGlzIGEg4pyoIF9zcGVjaWFsXyDinKggcmVwb3NpdG9yeSBiZWNhdXNlIGl0cyBgUkVBRE1FLm1kYCAodGhpcyBmaWxlKSBhcHBlYXJzIG9uIHlvdXIgR2l0SHViIHByb2ZpbGUuCgpIZXJlIGFyZSBzb21lIGlkZWFzIHRvIGdldCB5b3Ugc3RhcnRlZDoKCi0g8J+UrSBJ4oCZbSBjdXJyZW50bHkgd29ya2luZyBvbiAuLi4KLSDwn4yxIEnigJltIGN1cnJlbnRseSBsZWFybmluZyAuLi4KLSDwn5GvIEnigJltIGxvb2tpbmcgdG8gY29sbGFib3JhdGUgb24gLi4uCi0g8J+klCBJ4oCZbSBsb29raW5nIGZvciBoZWxwIHdpdGggLi4uCi0g8J+SrCBBc2sgbWUgYWJvdXQgLi4uCi0g8J+TqyBIb3cgdG8gcmVhY2ggbWU6IC4uLgotIPCfmIQgUHJvbm91bnM6IC4uLgotIOKaoSBGdW4gZmFjdDogLi4uCi0tPgpJQSBDb21wYSAoSUEgQ09NUEEgTExDKSBpcyBhbiBBSSBhdXRvbWF0aW9uIGFnZW5jeSwgZm91bmRlZCAyMDIzLiBXZSBkZXNpZ24sIGJ1aWxkIGFuZCBzdXBwb3J0IEFJIHZvaWNlIGFnZW50cywgY2hhdGJvdHMsIEFJIGFnZW50cyBhbmQgd29ya2Zsb3cgYXV0b21hdGlvbnMgZm9yIHNtYWxsIFVTIHNlcnZpY2UgYnVzaW5lc3NlcywgaW4gRW5nbGlzaCBhbmQgU3BhbmlzaC4gV2Vic2l0ZTogaHR0cHM6Ly9pYWNvbXBhLmNvbS8KCiMjIFNlcnZpY2VzCgotIFtBbGwgc2VydmljZXNdKGh0dHBzOi8vaWFjb21wYS5jb20vc2VydmljZXMpCi0gW0FJIEFnZW50c10oaHR0cHM6Ly9pYWNvbXBhLmNvbS9zZXJ2aWNlcy9haS1hZ2VudHMpCi0gW0FJIEF1dG9tYXRpb25zXShodHRwczovL2lhY29tcGEuY29tL3NlcnZpY2VzL2FpLWF1dG9tYXRpb25zKQotIFtBSSBDaGF0Ym90c10oaHR0cHM6Ly9pYWNvbXBhLmNvbS9zZXJ2aWNlcy9haS1jaGF0Ym90cykKLSBbQUkgVm9pY2UgQWdlbnRzXShodHRwczovL2lhY29tcGEuY29tL3NlcnZpY2VzL2FpLXZvaWNlLWFnZW50cykKLSBbQUkgRW1haWxdKGh0dHBzOi8vaWFjb21wYS5jb20vc2VydmljZXMvYWktZW1haWwpCi0gW0N1c3RvbSBTb2x1dGlvbnNdKGh0dHBzOi8vaWFjb21wYS5jb20vc2VydmljZXMvY3VzdG9tLXNvbHV0aW9ucykKLSBbRGF0YWJhc2UgUmVhY3RpdmF0aW9uXShodHRwczovL2lhY29tcGEuY29tL3NlcnZpY2VzL2RhdGFiYXNlLXJlYWN0aXZhdGlvbikKLSBbTWlzc2VkLUNhbGwgVGV4dCBCYWNrXShodHRwczovL2lhY29tcGEuY29tL3NlcnZpY2VzL21pc3NlZC1jYWxsLXRleHQtYmFjaykKLSBbUmV2aWV3IE1hbmFnZW1lbnRdKGh0dHBzOi8vaWFjb21wYS5jb20vc2VydmljZXMvcmV2aWV3LW1hbmFnZW1lbnQpCi0gW0FwcG9pbnRtZW50IEF1dG9tYXRpb25dKGh0dHBzOi8vaWFjb21wYS5jb20vc2VydmljZXMvYXBwb2ludG1lbnQtYXV0b21hdGlvbikKLSBbU29jaWFsIERNIEF1dG9tYXRpb25dKGh0dHBzOi8vaWFjb21wYS5jb20vc2VydmljZXMvc29jaWFsLWRtLWF1dG9tYXRpb24pCi0gW0FJIFdlYnNpdGVzICYgRnVubmVsc10oaHR0cHM6Ly9pYWNvbXBhLmNvbS9zZXJ2aWNlcy93ZWJzaXRlcy1mdW5uZWxzKQoKIyMgQXBwcwoKLSBbQWxsIGFwcHNdKGh0dHBzOi8vaWFjb21wYS5jb20vYXBwcykKLSBbRGF3bmFtaXRlIOKAlCBtYWNPUyBEQVddKGh0dHBzOi8vaWFjb21wYS5jb20vYXBwcy9kYXduYW1pdGUpCi0gW0JpdHVhYml0IOKAlCBoYWJpdCB0cmFja2VyXShodHRwczovL2lhY29tcGEuY29tL2FwcHMvYml0dWFiaXQpCi0gW1RleHRpYWMg4oCUIHByaXZhdGUgbWVzc2VuZ2VyXShodHRwczovL2lhY29tcGEuY29tL2FwcHMvdGV4dGlhYykKLSBbU2ljbm90ZSDigJQgc29uZ3dyaXRpbmcgYXBwXShodHRwczovL2lhY29tcGEuY29tL2FwcHMvc2ljbm90ZSkKLSBbU29uZWRpYSDigJQgcG9ja2V0IHN0dWRpb10oaHR0cHM6Ly9pYWNvbXBhLmNvbS9hcHBzL3NvbmVkaWEpCi0gW1RoZW1lNExvZ2ljIOKAlCBMb2dpYyBQcm8gdGhlbWVzXShodHRwczovL2lhY29tcGEuY29tL2FwcHMvdGhlbWU0bG9naWMpCi0gW1ZpYmlhYyDigJQgZGV2IHdvcmtyb29tXShodHRwczovL2lhY29tcGEuY29tL2FwcHMvdmliaWFjKQotIFtXYXRvd2VyIOKAlCBNYWMgc3lzdGVtIG1vbml0b3JdKGh0dHBzOi8vaWFjb21wYS5jb20vYXBwcy93YXRvd2VyKQotIFtXYXNUaGF0IOKAlCBNYWMgYXVkaW8gdXRpbGl0eV0oaHR0cHM6Ly9pYWNvbXBhLmNvbS9hcHBzL3dhc3RoYXQpCi0gW0NsaW5rIOKAlCBwcml2YWN5IHRvb2xdKGh0dHBzOi8vaWFjb21wYS5jb20vYXBwcy9jbGluaykKLSBbU3BsZWRpbyDigJQgc3BlY3RyYWwgYXVkaW8gZWRpdG9yXShodHRwczovL2lhY29tcGEuY29tL2FwcHMvc3BsZWRpbykKCiMjIFNraWxscwoKLSBbSUEgQ29tcGEgU2tpbGxzIOKAlCBmcmVlIEFJIGFnZW50IHNraWxsc10oaHR0cHM6Ly9pYWNvbXBhLmNvbS9za2lsbHMpCgojIyBBSSBOZXdzCgotIFtHZW5pZSA0IC8gUHJvamVjdCBHZW5pZTogR29vZ2xlIERlZXBNaW5kJ3MgaW50ZXJhY3RpdmUgd29ybGQgbW9kZWwgbGF1bmNoXShodHRwczovL2lhY29tcGEuY29tL25ld3MvZ29vZ2xlLWRlZXBtaW5kLWdlbmllLTQtcHJvamVjdC1nZW5pZS1sYXVuY2gpCi0gW0dBTyBjb3ZlcnQgdGVzdGluZyBvZiBBSSBjaGF0Ym90czogc2FmZWd1YXJkcyBhdWRpdCBvbiBhdHRhY2stcGxhbiByZXF1ZXN0c10oaHR0cHM6Ly9pYWNvbXBhLmNvbS9uZXdzL2dhby1jb3ZlcnQtdGVzdGluZy1haS1jaGF0Ym90cy1hdHRhY2stcGxhbnMpCi0gW1N1bm8gVmlzdWFsczogQUkgbXVzaWMgdmlkZW9zIGFuZCBpbWFnZXMgZnJvbSBTdW5vXShodHRwczovL2lhY29tcGEuY29tL25ld3Mvc3Vuby12aXN1YWxzLWFpLW11c2ljLXZpZGVvcy1pbWFnZXMpCi0gW1BlcnBsZXhpdHkgQ29tcHV0ZXI6IG11bHRpYWdlbnQgc3lzdGVtIHdpdGggZWZmb3J0IGxldmVsc10oaHR0cHM6Ly9pYWNvbXBhLmNvbS9uZXdzL3BlcnBsZXhpdHktY29tcHV0ZXItbXVsdGlhZ2VudC1lZmZvcnQtbGV2ZWwpCi0gW05WSURJQSBzdXBwbHktY2hhaW4gcGFydG5lcnMgZXhwYW5kIEFJIGluZnJhc3RydWN0dXJlXShodHRwczovL2lhY29tcGEuY29tL25ld3MvbnZpZGlhLXN1cHBseS1jaGFpbi1wYXJ0bmVycy1haS1pbmZyYXN0cnVjdHVyZSkKLSBbQ2hhdEdQVCBmb3IgU2FsZXM6IENSTSBwYXJ0bmVyIHBsdWdpbnMgZnJvbSBPcGVuQUldKGh0dHBzOi8vaWFjb21wYS5jb20vbmV3cy9vcGVuYWktY2hhdGdwdC1mb3Itc2FsZXMtY3JtLXBhcnRuZXItcGx1Z2lucykKLSBbUGVycGxleGl0eSBPcmNoZXN0cmF0b3IgQVBJOiBtb2RlbCByb3V0aW5nIGZvciBhZ2VudHNdKGh0dHBzOi8vaWFjb21wYS5jb20vbmV3cy9wZXJwbGV4aXR5LW9yY2hlc3RyYXRvci1hcGktbW9kZWwtcm91dGluZykKLSBbTlZJRElBIFNraWxsU3BlY3Rvcjogc2VjdXJpdHkgc2Nhbm5lciBmb3IgYWdlbnQgc2tpbGxzXShodHRwczovL2lhY29tcGEuY29tL25ld3MvbnZpZGlhLXNraWxsc3BlY3Rvci1hZ2VudC1za2lsbC1zY2FubmVyKQotIFtHZW5pZSA0IC8gUHJvamVjdCBHZW5pZTogbXVuZG9zIGludGVyYWN0aXZvcyBkZSBHb29nbGUgRGVlcE1pbmQgKEVTKV0oaHR0cHM6Ly9pYWNvbXBhLmNvbS9lcy9ub3RpY2lhcy9nb29nbGUtZGVlcG1pbmQtZ2VuaWUtNC1wcm9qZWN0LWdlbmllLWxhdW5jaCkKLSBbR0FPOiBhdWRpdG9yw61hIGRlIHNhbHZhZ3VhcmRhcyBlbiBjaGF0Ym90cyBkZSBJQSAoRVMpXShodHRwczovL2lhY29tcGEuY29tL2VzL25vdGljaWFzL2dhby1jb3ZlcnQtdGVzdGluZy1haS1jaGF0Ym90cy1hdHRhY2stcGxhbnMpCi0gW1N1bm8gVmlzdWFsczogdsOtZGVvcyBtdXNpY2FsZXMgZSBpbcOhZ2VuZXMgY29uIElBIChFUyldKGh0dHBzOi8vaWFjb21wYS5jb20vZXMvbm90aWNpYXMvc3Vuby12aXN1YWxzLWFpLW11c2ljLXZpZGVvcy1pbWFnZXMpCi0gW1BlcnBsZXhpdHkgQ29tcHV0ZXI6IHNpc3RlbWEgbXVsdGlhZ2VudGUgY29uIG5pdmVsZXMgZGUgZXNmdWVyem8gKEVTKV0oaHR0cHM6Ly9pYWNvbXBhLmNvbS9lcy9ub3RpY2lhcy9wZXJwbGV4aXR5LWNvbXB1dGVyLW11bHRpYWdlbnQtZWZmb3J0LWxldmVsKQotIFtOVklESUE6IHNvY2lvcyBkZSBsYSBjYWRlbmEgZGUgc3VtaW5pc3RybyBwYXJhIGluZnJhZXN0cnVjdHVyYSBkZSBJQSAoRVMpXShodHRwczovL2lhY29tcGEuY29tL2VzL25vdGljaWFzL252aWRpYS1zdXBwbHktY2hhaW4tcGFydG5lcnMtYWktaW5mcmFzdHJ1Y3R1cmUpCi0gW0NoYXRHUFQgZm9yIFNhbGVzOiBwbHVnaW5zIGRlIENSTSBwYXJhIHZlbnRhcyAoRVMpXShodHRwczovL2lhY29tcGEuY29tL2VzL25vdGljaWFzL29wZW5haS1jaGF0Z3B0LWZvci1zYWxlcy1jcm0tcGFydG5lci1wbHVnaW5zKQotIFtQZXJwbGV4aXR5IE9yY2hlc3RyYXRvciBBUEk6IGVucnV0YW1pZW50byBkZSBtb2RlbG9zIHBhcmEgYWdlbnRlcyAoRVMpXShodHRwczovL2lhY29tcGEuY29tL2VzL25vdGljaWFzL3BlcnBsZXhpdHktb3JjaGVzdHJhdG9yLWFwaS1tb2RlbC1yb3V0aW5nKQotIFtOVklESUEgU2tpbGxTcGVjdG9yOiBlc2PDoW5lciBkZSBzZWd1cmlkYWQgcGFyYSBza2lsbHMgZGUgYWdlbnRlcyAoRVMpXShodHRwczovL2lhY29tcGEuY29tL2VzL25vdGljaWFzL252aWRpYS1za2lsbHNwZWN0b3ItYWdlbnQtc2tpbGwtc2Nhbm5lcikKLSBbRW1iZWRkaW5nR2VtbWEgMjogR29vZ2xlIERlZXBNaW5kJ3MgbXVsdGltb2RhbCBlbWJlZGRpbmcgbW9kZWxdKGh0dHBzOi8vaWFjb21wYS5jb20vbmV3cy9nb29nbGUtZW1iZWRkaW5nZ2VtbWEtMi1tdWx0aW1vZGFsLWVtYmVkZGluZy1tb2RlbCkKLSBbS2xpbmcgSW1hZ2UgNC4wOiBuYXRpdmUgOEsgaW1hZ2UgZ2VuZXJhdGlvbiBmcm9tIEtsaW5nIEFJXShodHRwczovL2lhY29tcGEuY29tL25ld3Mva2xpbmctYWktaW1hZ2UtNC0wLW5hdGl2ZS04ay1nZW5lcmF0aW9uKQotIFtBcml6ZSBQaG9lbml4IENWRS0yMDI2LTUzOTk4OiBQSE9FTklYX1NFQ1JFVCBsZWFrIHZ1bG5lcmFiaWxpdHldKGh0dHBzOi8vaWFjb21wYS5jb20vbmV3cy9hcml6ZS1waG9lbml4LWN2ZS0yMDI2LTUzOTk4LXNlY3JldC1sZWFrKQotIFtWZXJjZWwgZXZlIDEuMDogb3Blbi1zb3VyY2UgYWdlbnQgZnJhbWV3b3JrXShodHRwczovL2lhY29tcGEuY29tL25ld3MvdmVyY2VsLWV2ZS0xLTAtb3Blbi1zb3VyY2UtYWdlbnQtZnJhbWV3b3JrKQotIFtEZXZpbiBCb3RzOiBDb2duaXRpb24ncyBwZXJzaXN0ZW50IGFnZW50c10oaHR0cHM6Ly9pYWNvbXBhLmNvbS9uZXdzL2NvZ25pdGlvbi1kZXZpbi1ib3RzLXBlcnNpc3RlbnQtYWdlbnRzKQotIFtNaWNyb3NvZnQgTUFJIENvZGUgMiBhbmQgQ29kZSAyIEZsYXNoIGluIEdpdEh1YiBDb3BpbG90XShodHRwczovL2lhY29tcGEuY29tL25ld3MvbWljcm9zb2Z0LW1haS1jb2RlLTItY29kZS0yLWZsYXNoLWdpdGh1Yi1jb3BpbG90KQotIFtNaWNyb3NvZnQgTUFJIEN5YmVyIDIgRmxhc2ggc2VjdXJpdHkgbW9kZWxdKGh0dHBzOi8vaWFjb21wYS5jb20vbmV3cy9taWNyb3NvZnQtbWFpLWN5YmVyLTItZmxhc2gtc2VjdXJpdHktbW9kZWwpCi0gW01pY3Jvc29mdCBNQUkgUmVhbHRpbWUgMSBzcGVlY2gtdG8tc3BlZWNoIHZvaWNlIG1vZGVsXShodHRwczovL2lhY29tcGEuY29tL25ld3MvbWljcm9zb2Z0LW1haS1yZWFsdGltZS0xLXNwZWVjaC10by1zcGVlY2gtdm9pY2UpCi0gW0dvb2dsZSBUYXNrcyBpbiBHZW1pbmkgZ29lcyBmcmVlOiBjYWxscywgYm9va2luZ3MgYW5kIHBheW1lbnRzXShodHRwczovL2lhY29tcGEuY29tL25ld3MvZ29vZ2xlLXRhc2tzLWluLWdlbWluaS1mcmVlLWNhbGxzLWJvb2tpbmdzLXBheW1lbnRzKQotIFtNaWNyb3NvZnQgQ29waWxvdCBBdXRvcGlsb3QsIFdvcmtzcGFjZXMgYW5kIEhvbWUvT2ZmaWNlIG5vdyBnZW5lcmFsbHkgYXZhaWxhYmxlXShodHRwczovL2lhY29tcGEuY29tL25ld3MvbWljcm9zb2Z0LWNvcGlsb3QtYXV0b3BpbG90LXdvcmtzcGFjZXMtaG9tZS1vZmZpY2UtZ2VuZXJhbGx5LWF2YWlsYWJsZSkKLSBbR1BULTYuMiBBc3RyYTogT3BlbkFJJ3MgbmV3IGZyb250aWVyIG1vZGVsLCAjMiBvbiB0aGUgQXJ0aWZpY2lhbCBBbmFseXNpcyBJbnRlbGxpZ2VuY2UgSW5kZXhdKGh0dHBzOi8vaWFjb21wYS5jb20vbmV3cy9vcGVuYWktZ3B0LTYtMi1hc3RyYSkKLSBbR1BULTYuMiBTb2w6IE9wZW5BSSdzIGV2ZXJ5ZGF5LXdvcmsgZnJvbnRpZXIgbW9kZWwgYXQgJDIvJDEwIHBlciBtaWxsaW9uIHRva2Vuc10oaHR0cHM6Ly9pYWNvbXBhLmNvbS9uZXdzL29wZW5haS1ncHQtNi0yLXNvbCkKLSBbTWlyZWxvIFNvdW5kIEFnZW50OiBBSSBzb3VuZCBkZXNpZ24gYWdlbnQgZWRpdHMgYSB2aWRlbydzIHNvdW5kIGZyb20gcGxhaW4tbGFuZ3VhZ2UgcHJvbXB0c10oaHR0cHM6Ly9pYWNvbXBhLmNvbS9uZXdzL21pcmVsby1haS1zb3VuZC1hZ2VudC12aWRlby1zb3VuZC1kZXNpZ24pCi0gW09wZW5BSSBEYXlicmVhazogQUkgY3liZXIgZGVmZW5zZSBmb3IgTkFUTyBhbmQgYWxsaWVkIHBhcnRuZXJzXShodHRwczovL2lhY29tcGEuY29tL25ld3Mvb3BlbmFpLWRheWJyZWFrLW5hdG8tY3liZXItZGVmZW5zZSkKLSBbTWljcm9zb2Z0IEF6dXJlIGFnZW50aWMgb3BlcmF0aW9uczogU1JFIEFnZW50IGFubm91bmNlZCBhdCBJZ25pdGVdKGh0dHBzOi8vaWFjb21wYS5jb20vbmV3cy9taWNyb3NvZnQtYXp1cmUtYWdlbnRpYy1vcGVyYXRpb25zLXNyZS1hZ2VudC1pZ25pdGUpCi0gW0xNIFN0dWRpbyBCaW9uaWM6IEFnZW50IFJlbW90ZSBDb250cm9sIGZvciBsb2NhbCBBSSBhZ2VudHNdKGh0dHBzOi8vaWFjb21wYS5jb20vbmV3cy9sbS1zdHVkaW8tYmlvbmljLWFnZW50LXJlbW90ZS1jb250cm9sKQotIFtIdWdnaW5nIEZhY2Ugcm91dGVzIEluZmVyZW5jZSBQcm92aWRlcnMgdGhyb3VnaCBPcGVuUm91dGVyXShodHRwczovL2lhY29tcGEuY29tL25ld3MvaHVnZ2luZy1mYWNlLW9wZW5yb3V0ZXItaW5mZXJlbmNlLXByb3ZpZGVycy1yb3V0aW5nKQotIFtMaXF1aWQgQUkgZDEuMiAvIGQxLjItdWx0cmEgZGVjaXNpb24gbW9kZWxzXShodHRwczovL2lhY29tcGEuY29tL25ld3MvbGlxdWlkLWFpLWQxLjItdWx0cmEtZGVjaXNpb24tbW9kZWxzKQotIFtOVklESUEgUnViaW4gSFBDIEdQVSBmb3Igc2NpZW5jZSBhZ2VudHNdKGh0dHBzOi8vaWFjb21wYS5jb20vbmV3cy9udmlkaWEtcnViaW4taHBjLWdwdS1zY2llbmNlLWFnZW50cykKLSBbTlZJRElBIFZlcmEgUnViaW4gTUxQZXJmIFRyYWluaW5nIHY2LjFdKGh0dHBzOi8vaWFjb21wYS5jb20vbmV3cy9udmlkaWEtdmVyYS1ydWJpbi1tbHBlcmYtdHJhaW5pbmctZW5kcG9pbnRzKQotIFtPcGVuQUkgQ2hhdEdQVCBmb3IgSGVhbHRoY2FyZSBjb21wdXRlci11c2UgYWdlbnRzXShodHRwczovL2lhY29tcGEuY29tL25ld3Mvb3BlbmFpLWNoYXRncHQtaGVhbHRoY2FyZS1jb21wdXRlci11c2UtYWdlbnRzKQotIFtUZW5jZW50IEh5NCBGbGFzaCAyMjRCIE1vRSBtb2RlbF0oaHR0cHM6Ly9pYWNvbXBhLmNvbS9uZXdzL3RlbmNlbnQtaHk0LWZsYXNoLWNvc3QtZWZmZWN0aXZlLW1vZGVsKQotIFtHb29nbGUgR1RJRyBBSSBUaHJlYXQgVHJhY2tlcl0oaHR0cHM6Ly9pYWNvbXBhLmNvbS9uZXdzL2dvb2dsZS1ndGlnLWFpLXRocmVhdC10cmFja2VyLWF1dG9ub21vdXMtZXhwbG9pdC1hZ2VudHMpCi0gW1F3ZW40LU1heCBBUEkgbGF1bmNoZXM6IEFsaWJhYmEgUXdlbidzIGZsYWdzaGlwIGdvZXMgR0EgYXQgJDEuNTAvJDQuNTAgcGVyIG1pbGxpb24gdG9rZW5zXShodHRwczovL2lhY29tcGEuY29tL25ld3MvYWxpYmFiYS1xd2VuLXF3ZW40LW1heCkg4oCUIEVOIMK3IFtFU10oaHR0cHM6Ly9pYWNvbXBhLmNvbS9lcy9ub3RpY2lhcy9hbGliYWJhLXF3ZW4tcXdlbjQtbWF4KQotIFtNaXJlbG8gU0ZYIDIuMDogdmlkZW8tdG8tc291bmQgbW9kZWwgYWRkcyBBSSBzb3VuZCBlZmZlY3RzLCBmb2xleSBhbmQgYW1iaWVuY2Ugd2hpbGUga2VlcGluZyBkaWFsb2d1ZV0oaHR0cHM6Ly9pYWNvbXBhLmNvbS9uZXdzL21pcmVsby1haS1zZngtMi0wLXZpZGVvLXRvLXNvdW5kKQoKIyMgV29yayB3aXRoIElBIENvbXBhCgotIFtDb250YWN0IElBIENvbXBhXShodHRwczovL2lhY29tcGEuY29tL2NvbnRhY3QpIOKAlCBFTiDCtyBbRVNdKGh0dHBzOi8vaWFjb21wYS5jb20vZXMvY29udGFjdG8pCi0gW0hpcmUgQUkgZGV2ZWxvcGVyc10oaHR0cHM6Ly9pYWNvbXBhLmNvbS9oaXJlLWFpLWRldmVsb3BlcnMpIOKAlCBFTiDCtyBbRVNdKGh0dHBzOi8vaWFjb21wYS5jb20vZXMvY29udHJhdGFyLWRlc2Fycm9sbGFkb3Jlcy1kZS1pYSkKLSBbSm9pbiB0aGUgQUkgVGFsZW50IE5ldHdvcmtdKGh0dHBzOi8vaWFjb21wYS5jb20vam9pbi1haS10YWxlbnQtbmV0d29yaykg4oCUIEVOIMK3IFtFU10oaHR0cHM6Ly9pYWNvbXBhLmNvbS9lcy91bmV0ZS1hLWxhLXJlZC1kZS10YWxlbnRvLWlhKQo=
+## Hi there 👋
+
+<!--
+**iacompa/iacompa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+IA Compa (IA COMPA LLC) is an AI automation agency, founded 2023. We design, build and support AI voice agents, chatbots, AI agents and workflow automations for small US service businesses, in English and Spanish. Website: https://iacompa.com/
+
+## Services
+
+- [All services](https://iacompa.com/services)
+- [AI Agents](https://iacompa.com/services/ai-agents)
+- [AI Automations](https://iacompa.com/services/ai-automations)
+- [AI Chatbots](https://iacompa.com/services/ai-chatbots)
+- [AI Voice Agents](https://iacompa.com/services/ai-voice-agents)
+- [AI Email](https://iacompa.com/services/ai-email)
+- [Custom Solutions](https://iacompa.com/services/custom-solutions)
+- [Database Reactivation](https://iacompa.com/services/database-reactivation)
+- [Missed-Call Text Back](https://iacompa.com/services/missed-call-text-back)
+- [Review Management](https://iacompa.com/services/review-management)
+- [Appointment Automation](https://iacompa.com/services/appointment-automation)
+- [Social DM Automation](https://iacompa.com/services/social-dm-automation)
+- [AI Websites & Funnels](https://iacompa.com/services/websites-funnels)
+
+## Apps
+
+- [All apps](https://iacompa.com/apps)
+- [Dawnamite — macOS DAW](https://iacompa.com/apps/dawnamite)
+- [Bituabit — habit tracker](https://iacompa.com/apps/bituabit)
+- [Textiac — private messenger](https://iacompa.com/apps/textiac)
+- [Sicnote — songwriting app](https://iacompa.com/apps/sicnote)
+- [Sonedia — pocket studio](https://iacompa.com/apps/sonedia)
+- [Theme4Logic — Logic Pro themes](https://iacompa.com/apps/theme4logic)
+- [Vibiac — dev workroom](https://iacompa.com/apps/vibiac)
+- [Watower — Mac system monitor](https://iacompa.com/apps/watower)
+- [WasThat — Mac audio utility](https://iacompa.com/apps/wasthat)
+- [Clink — privacy tool](https://iacompa.com/apps/clink)
+- [Spledio — spectral audio editor](https://iacompa.com/apps/spledio)
+
+## Skills
+
+- [IA Compa Skills — free AI agent skills](https://iacompa.com/skills)
+
+## AI News
+
+- [Gemini 4 Neon: Google DeepMind's new model for coding, knowledge work and science](https://iacompa.com/news/google-gemini-4-neon)
+- [Stitch Loop: Google Labs' always-on AI product agent](https://iacompa.com/news/google-stitch-loop-product-agent)
+- [AWS Lambda GPU instances: serverless GPU inference from Amazon](https://iacompa.com/news/amazon-aws-lambda-gpu-instances)
+- [Gemini 4 Neon: el nuevo modelo de Google DeepMind para código, conocimiento y ciencia (ES)](https://iacompa.com/es/noticias/google-gemini-4-neon)
+- [Stitch Loop: el agente de producto siempre activo de Google Labs (ES)](https://iacompa.com/es/noticias/google-stitch-loop-product-agent)
+- [AWS Lambda con GPU: inferencia GPU sin servidor de Amazon (ES)](https://iacompa.com/es/noticias/amazon-aws-lambda-gpu-instances)
+- [Genie 4 / Project Genie: Google DeepMind's interactive world model launch](https://iacompa.com/news/google-deepmind-genie-4-project-genie-launch)
+- [GAO covert testing of AI chatbots: safeguards audit on attack-plan requests](https://iacompa.com/news/gao-covert-testing-ai-chatbots-attack-plans)
+- [Suno Visuals: AI music videos and images from Suno](https://iacompa.com/news/suno-visuals-ai-music-videos-images)
+- [Perplexity Computer: multiagent system with effort levels](https://iacompa.com/news/perplexity-computer-multiagent-effort-level)
+- [NVIDIA supply-chain partners expand AI infrastructure](https://iacompa.com/news/nvidia-supply-chain-partners-ai-infrastructure)
+- [ChatGPT for Sales: CRM partner plugins from OpenAI](https://iacompa.com/news/openai-chatgpt-for-sales-crm-partner-plugins)
+- [Perplexity Orchestrator API: model routing for agents](https://iacompa.com/news/perplexity-orchestrator-api-model-routing)
+- [NVIDIA SkillSpector: security scanner for agent skills](https://iacompa.com/news/nvidia-skillspector-agent-skill-scanner)
+- [Genie 4 / Project Genie: mundos interactivos de Google DeepMind (ES)](https://iacompa.com/es/noticias/google-deepmind-genie-4-project-genie-launch)
+- [GAO: auditoría de salvaguardas en chatbots de IA (ES)](https://iacompa.com/es/noticias/gao-covert-testing-ai-chatbots-attack-plans)
+- [Suno Visuals: vídeos musicales e imágenes con IA (ES)](https://iacompa.com/es/noticias/suno-visuals-ai-music-videos-images)
+- [Perplexity Computer: sistema multiagente con niveles de esfuerzo (ES)](https://iacompa.com/es/noticias/perplexity-computer-multiagent-effort-level)
+- [NVIDIA: socios de la cadena de suministro para infraestructura de IA (ES)](https://iacompa.com/es/noticias/nvidia-supply-chain-partners-ai-infrastructure)
+- [ChatGPT for Sales: plugins de CRM para ventas (ES)](https://iacompa.com/es/noticias/openai-chatgpt-for-sales-crm-partner-plugins)
+- [Perplexity Orchestrator API: enrutamiento de modelos para agentes (ES)](https://iacompa.com/es/noticias/perplexity-orchestrator-api-model-routing)
+- [NVIDIA SkillSpector: escáner de seguridad para skills de agentes (ES)](https://iacompa.com/es/noticias/nvidia-skillspector-agent-skill-scanner)
+- [EmbeddingGemma 2: Google DeepMind's multimodal embedding model](https://iacompa.com/news/google-embeddinggemma-2-multimodal-embedding-model)
+- [Kling Image 4.0: native 8K image generation from Kling AI](https://iacompa.com/news/kling-ai-image-4-0-native-8k-generation)
+- [Arize Phoenix CVE-2026-53998: PHOENIX_SECRET leak vulnerability](https://iacompa.com/news/arize-phoenix-cve-2026-53998-secret-leak)
+- [Vercel eve 1.0: open-source agent framework](https://iacompa.com/news/vercel-eve-1-0-open-source-agent-framework)
+- [Devin Bots: Cognition's persistent agents](https://iacompa.com/news/cognition-devin-bots-persistent-agents)
+- [Microsoft MAI Code 2 and Code 2 Flash in GitHub Copilot](https://iacompa.com/news/microsoft-mai-code-2-code-2-flash-github-copilot)
+- [Microsoft MAI Cyber 2 Flash security model](https://iacompa.com/news/microsoft-mai-cyber-2-flash-security-model)
+- [Microsoft MAI Realtime 1 speech-to-speech voice model](https://iacompa.com/news/microsoft-mai-realtime-1-speech-to-speech-voice)
+- [Google Tasks in Gemini goes free: calls, bookings and payments](https://iacompa.com/news/google-tasks-in-gemini-free-calls-bookings-payments)
+- [Microsoft Copilot Autopilot, Workspaces and Home/Office now generally available](https://iacompa.com/news/microsoft-copilot-autopilot-workspaces-home-office-generally-available)
+- [GPT-6.2 Astra: OpenAI's new frontier model, #2 on the Artificial Analysis Intelligence Index](https://iacompa.com/news/openai-gpt-6-2-astra)
+- [GPT-6.2 Sol: OpenAI's everyday-work frontier model at $2/$10 per million tokens](https://iacompa.com/news/openai-gpt-6-2-sol)
+- [Mirelo Sound Agent: AI sound design agent edits a video's sound from plain-language prompts](https://iacompa.com/news/mirelo-ai-sound-agent-video-sound-design)
+- [OpenAI Daybreak: AI cyber defense for NATO and allied partners](https://iacompa.com/news/openai-daybreak-nato-cyber-defense)
+- [Microsoft Azure agentic operations: SRE Agent announced at Ignite](https://iacompa.com/news/microsoft-azure-agentic-operations-sre-agent-ignite)
+- [LM Studio Bionic: Agent Remote Control for local AI agents](https://iacompa.com/news/lm-studio-bionic-agent-remote-control)
+- [Hugging Face routes Inference Providers through OpenRouter](https://iacompa.com/news/hugging-face-openrouter-inference-providers-routing)
+- [Liquid AI d1.2 / d1.2-ultra decision models](https://iacompa.com/news/liquid-ai-d1.2-ultra-decision-models)
+- [NVIDIA Rubin HPC GPU for science agents](https://iacompa.com/news/nvidia-rubin-hpc-gpu-science-agents)
+- [NVIDIA Vera Rubin MLPerf Training v6.1](https://iacompa.com/news/nvidia-vera-rubin-mlperf-training-endpoints)
+- [OpenAI ChatGPT for Healthcare computer-use agents](https://iacompa.com/news/openai-chatgpt-healthcare-computer-use-agents)
+- [Tencent Hy4 Flash 224B MoE model](https://iacompa.com/news/tencent-hy4-flash-cost-effective-model)
+- [Google GTIG AI Threat Tracker](https://iacompa.com/news/google-gtig-ai-threat-tracker-autonomous-exploit-agents)
+- [Qwen4-Max API launches: Alibaba Qwen's flagship goes GA at $1.50/$4.50 per million tokens](https://iacompa.com/news/alibaba-qwen-qwen4-max) — EN · [ES](https://iacompa.com/es/noticias/alibaba-qwen-qwen4-max)
+- [Mirelo SFX 2.0: video-to-sound model adds AI sound effects, foley and ambience while keeping dialogue](https://iacompa.com/news/mirelo-ai-sfx-2-0-video-to-sound)
+
+## Work with IA Compa
+
+- [Contact IA Compa](https://iacompa.com/contact) — EN · [ES](https://iacompa.com/es/contacto)
+- [Hire AI developers](https://iacompa.com/hire-ai-developers) — EN · [ES](https://iacompa.com/es/contratar-desarrolladores-de-ia)
+- [Join the AI Talent Network](https://iacompa.com/join-ai-talent-network) — EN · [ES](https://iacompa.com/es/unete-a-la-red-de-talento-ia)
