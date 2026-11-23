@@ -53,6 +53,10 @@ IA Compa (IA COMPA LLC) is an AI automation agency, founded 2023. We design, bui
 
 ## AI News
 
+- [X Square Robot WALL-OSS-1.0: native vision-language-action robot foundation model with 55.1% zero-shot success](https://iacompa.com/news/x-square-robot-wall-oss-1-0-vision-language-action)
+- [China Telecom Xing4.1-Preview: 285B open-weights MoE model for agentic coding with a native 1M-token context](https://iacompa.com/news/china-telecom-xing4-1-preview-open-weights)
+- [X Square Robot WALL-OSS-1.0: modelo fundacional visión-lenguaje-acción para robots con un 55,1 % de éxito zero-shot](https://iacompa.com/es/noticias/x-square-robot-wall-oss-1-0-vision-language-action) (ES)
+- [China Telecom Xing4.1-Preview: modelo MoE de pesos abiertos de 285B para codificación agéntica con contexto nativo de 1M de tokens](https://iacompa.com/es/noticias/china-telecom-xing4-1-preview-open-weights) (ES)
 - [Z.ai releases GLM-5.4, its first Loop Transformer flagship, on the GLM Coding Plan with vision](https://iacompa.com/news/zai-glm-5-4-loop-transformer-coding-plan)
 - [Vercel AI Gateway adds Audited ZDR, independently verified zero data retention for inference providers](https://iacompa.com/news/vercel-ai-gateway-audited-zdr)
 - [OpenAI Perplexity and Intelligence: Pachocki publishes internal pretraining perplexity scores and proposes shared limits](https://iacompa.com/news/openai-perplexity-intelligence-pretraining-limits)
