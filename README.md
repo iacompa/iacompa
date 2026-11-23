@@ -53,6 +53,12 @@ IA Compa (IA COMPA LLC) is an AI automation agency, founded 2023. We design, bui
 
 ## AI News
 
+- [Z.ai releases GLM-5.4, its first Loop Transformer flagship, on the GLM Coding Plan with vision](https://iacompa.com/news/zai-glm-5-4-loop-transformer-coding-plan)
+- [Vercel AI Gateway adds Audited ZDR, independently verified zero data retention for inference providers](https://iacompa.com/news/vercel-ai-gateway-audited-zdr)
+- [OpenAI Perplexity and Intelligence: Pachocki publishes internal pretraining perplexity scores and proposes shared limits](https://iacompa.com/news/openai-perplexity-intelligence-pretraining-limits)
+- [Z.ai lanza GLM-5.4, su primer modelo insignia Loop Transformer, en el GLM Coding Plan con visión](https://iacompa.com/es/noticias/zai-glm-5-4-loop-transformer-coding-plan) (ES)
+- [Vercel AI Gateway suma Audited ZDR, retención cero de datos verificada de forma independiente para proveedores de inferencia](https://iacompa.com/es/noticias/vercel-ai-gateway-audited-zdr) (ES)
+- [Perplejidad e inteligencia de OpenAI: Pachocki publica la perplejidad interna del preentrenamiento y propone límites compartidos](https://iacompa.com/es/noticias/openai-perplexity-intelligence-pretraining-limits) (ES)
 - [OpenRouter removes three inference providers over prompt theft and Zero Data Retention failures](https://iacompa.com/news/openrouter-removes-three-providers-prompt-theft-zero-data-retention)
 - [OpenRouter retira tres proveedores de inferencia por robo de prompts y fallos de Zero Data Retention (ES)](https://iacompa.com/es/noticias/openrouter-removes-three-providers-prompt-theft-zero-data-retention)
 - [Anthropic explains Claude dreaming: the offline pass that repairs AI agent memory](https://iacompa.com/news/anthropic-claude-dreaming-agent-memory)
