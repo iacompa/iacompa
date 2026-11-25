@@ -53,6 +53,12 @@ IA Compa (IA COMPA LLC) is an AI automation agency, founded 2023. We design, bui
 
 ## AI News
 
+- [Sand.ai launches MAGI-2, a 480B video generation model live on Higgsfield at $0.08 per second of 1080p video](https://iacompa.com/news/sand-ai-magi-2-480b-video-generation-model)
+- [NIO unveils NIO WorldModel (NWM) 3.0 smart driving model and NOMI Intelligence 4.0 in-vehicle AI agent at NIO IN 2026](https://iacompa.com/news/nio-worldmodel-3-0-nomi-intelligence-4-0-smart-driving)
+- [JetBrains releases Mellum2.1 Instruct, an Apache 2.0 open-weight coding model for faster coding agents](https://iacompa.com/news/jetbrains-mellum2-1-instruct-open-weight-coding-agents)
+- [Sand.ai lanza MAGI-2, un modelo de generación de video de 480B disponible en Higgsfield a $0,08 por segundo de video 1080p (ES)](https://iacompa.com/es/noticias/sand-ai-magi-2-480b-video-generation-model)
+- [NIO presenta su modelo de conducción inteligente NIO WorldModel (NWM) 3.0 y el agente NOMI Intelligence 4.0 en NIO IN 2026 (ES)](https://iacompa.com/es/noticias/nio-worldmodel-3-0-nomi-intelligence-4-0-smart-driving)
+- [JetBrains lanza Mellum2.1 Instruct, un modelo de programación de pesos abiertos con Apache 2.0 para agentes de programación más rápidos (ES)](https://iacompa.com/es/noticias/jetbrains-mellum2-1-instruct-open-weight-coding-agents)
 - [X Square Robot WALL-OSS-1.0: native vision-language-action robot foundation model with 55.1% zero-shot success](https://iacompa.com/news/x-square-robot-wall-oss-1-0-vision-language-action)
 - [China Telecom Xing4.1-Preview: 285B open-weights MoE model for agentic coding with a native 1M-token context](https://iacompa.com/news/china-telecom-xing4-1-preview-open-weights)
 - [X Square Robot WALL-OSS-1.0: modelo fundacional visión-lenguaje-acción para robots con un 55,1 % de éxito zero-shot](https://iacompa.com/es/noticias/x-square-robot-wall-oss-1-0-vision-language-action) (ES)
