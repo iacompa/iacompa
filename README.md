@@ -53,6 +53,8 @@ IA Compa (IA COMPA LLC) is an AI automation agency, founded 2023. We design, bui
 
 ## AI News
 
+- [Cloudflare launches Search for Agents, a one-toggle way to make a website searchable by AI agents](https://iacompa.com/news/cloudflare-search-for-agents-website-search)
+- [Cloudflare lanza Search for Agents, una forma de hacer que un sitio web sea buscable por agentes de IA con un solo interruptor (ES)](https://iacompa.com/es/noticias/cloudflare-search-for-agents-website-search)
 - [Sand.ai launches MAGI-2, a 480B video generation model live on Higgsfield at $0.08 per second of 1080p video](https://iacompa.com/news/sand-ai-magi-2-480b-video-generation-model)
 - [NIO unveils NIO WorldModel (NWM) 3.0 smart driving model and NOMI Intelligence 4.0 in-vehicle AI agent at NIO IN 2026](https://iacompa.com/news/nio-worldmodel-3-0-nomi-intelligence-4-0-smart-driving)
 - [JetBrains releases Mellum2.1 Instruct, an Apache 2.0 open-weight coding model for faster coding agents](https://iacompa.com/news/jetbrains-mellum2-1-instruct-open-weight-coding-agents)
