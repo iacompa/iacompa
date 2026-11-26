@@ -53,6 +53,10 @@ IA Compa (IA COMPA LLC) is an AI automation agency, founded 2023. We design, bui
 
 ## AI News
 
+- [NVIDIA open-sources the Nemotron 3.5 Parse training datasets and fine-tuning recipe for document parsing](https://iacompa.com/news/nvidia-nemotron-3-5-parse-open-datasets-fine-tuning-recipe)
+- [Sakana AI releases Sakana Namazu Small, a 30B reasoning model for on-premises document and web research](https://iacompa.com/news/sakana-namazu-small-30b-reasoning-model-on-premises)
+- [NVIDIA publica en abierto los datos de entrenamiento de Nemotron 3.5 Parse y su receta de ajuste fino (ES)](https://iacompa.com/es/noticias/nvidia-nemotron-3-5-parse-open-datasets-fine-tuning-recipe)
+- [Sakana AI lanza Sakana Namazu Small, un modelo de razonamiento de 30B para documentos y búsqueda web en local (ES)](https://iacompa.com/es/noticias/sakana-namazu-small-30b-reasoning-model-on-premises)
 - [Cloudflare launches Search for Agents, a one-toggle way to make a website searchable by AI agents](https://iacompa.com/news/cloudflare-search-for-agents-website-search)
 - [Cloudflare lanza Search for Agents, una forma de hacer que un sitio web sea buscable por agentes de IA con un solo interruptor (ES)](https://iacompa.com/es/noticias/cloudflare-search-for-agents-website-search)
 - [Sand.ai launches MAGI-2, a 480B video generation model live on Higgsfield at $0.08 per second of 1080p video](https://iacompa.com/news/sand-ai-magi-2-480b-video-generation-model)
